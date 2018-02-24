@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DuckHunt" />
+		<Option makefile_is_custom="1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="Rubicube.exe" prefix_auto="0" extension_auto="0" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+				<MakeCommands>
+					<Build command="$make" />
+					<CompileFile command="" />
+					<Clean command="$make clean" />
+					<DistClean command="" />
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ccontainer.h" />
+		<Unit filename="cdogmap.cpp" />
+		<Unit filename="cdogmap.h" />
+		<Unit filename="cduckmap.cpp" />
+		<Unit filename="cduckmap.h" />
+		<Unit filename="cfonta.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cfonta.h" />
+		<Unit filename="cfontb.cpp" />
+		<Unit filename="cfontb.h" />
+		<Unit filename="cgame.cpp" />
+		<Unit filename="cgame.h" />
+		<Unit filename="cmenu.cpp" />
+		<Unit filename="cmenu.h" />
+		<Unit filename="common.cpp" />
+		<Unit filename="common.h" />
+		<Unit filename="csound.cpp" />
+		<Unit filename="csound.h" />
+		<Unit filename="csoundcontrol.cpp" />
+		<Unit filename="csoundcontrol.h" />
+		<Unit filename="csprite.cpp" />
+		<Unit filename="csprite.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="video.cpp" />
+		<Unit filename="video.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

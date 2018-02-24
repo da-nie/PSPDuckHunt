@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="cdogmap.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="10365" topLine="198" />
+	</File>
+	<File name="cdogmap.h" open="1" top="0" tabpos="1">
+		<Cursor position="1328" topLine="42" />
+	</File>
+	<File name="cduckmap.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="14140" topLine="302" />
+	</File>
+	<File name="cduckmap.h" open="0" top="0" tabpos="6">
+		<Cursor position="2292" topLine="54" />
+	</File>
+	<File name="cfonta.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2477" topLine="25" />
+	</File>
+	<File name="cfonta.h" open="0" top="0" tabpos="0">
+		<Cursor position="507" topLine="0" />
+	</File>
+	<File name="cfontb.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="102" topLine="0" />
+	</File>
+	<File name="cfontb.h" open="0" top="0" tabpos="0">
+		<Cursor position="289" topLine="0" />
+	</File>
+	<File name="cgame.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="21633" topLine="492" />
+	</File>
+	<File name="cgame.h" open="0" top="0" tabpos="3">
+		<Cursor position="1747" topLine="69" />
+	</File>
+	<File name="cmenu.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="3081" topLine="8" />
+	</File>
+	<File name="cmenu.h" open="0" top="0" tabpos="0">
+		<Cursor position="1266" topLine="6" />
+	</File>
+	<File name="common.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="774" topLine="0" />
+	</File>
+	<File name="common.h" open="0" top="0" tabpos="0">
+		<Cursor position="252" topLine="0" />
+	</File>
+	<File name="csound.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3627" topLine="93" />
+	</File>
+	<File name="csound.h" open="0" top="0" tabpos="0">
+		<Cursor position="466" topLine="0" />
+	</File>
+	<File name="csoundcontrol.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="781" topLine="10" />
+	</File>
+	<File name="csoundcontrol.h" open="0" top="0" tabpos="0">
+		<Cursor position="322" topLine="0" />
+	</File>
+	<File name="csprite.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="542" topLine="12" />
+	</File>
+	<File name="csprite.h" open="0" top="0" tabpos="0">
+		<Cursor position="846" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2164" topLine="5" />
+	</File>
+	<File name="video.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2093" topLine="52" />
+	</File>
+	<File name="video.h" open="0" top="0" tabpos="0">
+		<Cursor position="1748" topLine="15" />
+	</File>
+</CodeBlocks_layout_file>

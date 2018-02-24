@@ -1,0 +1,18 @@
+TARGET = DuckHunt
+OBJS = csprite.o video.o cgame.o main.o cduckmap.o cdogmap.o cfonta.o cfontb.o common.o csound.o csoundcontrol.o cmenu.o
+INCDIR = 
+CFLAGS = -O3 -G0 -Wall
+CXXFLAGS = $(CFLAGS) -fno-exceptions -fno-rtti
+ASFLAGS = $(CFLAGS)
+LIBDIR = 
+LDFLAGS = 
+LIBS = -lm -lstdc++ -lpspaudiolib -lpspaudio -lpsprtc
+EXTRA_TARGETS = EBOOT.PBP
+PSP_EBOOT_TITLE = DuckHunt
+PSP_EBOOT_ICON = ICON.PNG
+PSP_EBOOT_ICON1 =
+PSP_EBOOT_UNKPNG = 
+PSP_EBOOT_PIC1 =PIC.PNG
+PSP_EBOOT_SND0 =
+PSPSDK=$(shell psp-config --pspsdk-path)
+include $(PSPSDK)/lib/build.mak
